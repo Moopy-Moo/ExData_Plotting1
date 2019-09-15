@@ -32,20 +32,20 @@ The four plots are shown below.
 
 ### Plot 1
 
-plot1.png
+![Image 1](https://github.com/Moopy-Moo/ExData_Plotting1/blob/master/plot1.png?raw=true)
 
 
 ### Plot 2
 
-plot2.png
+![Image 2](https://github.com/Moopy-Moo/ExData_Plotting1/blob/master/plot2.png?raw=true)
 
 
 ### Plot 3
 
-plot3.png
+![Image 3](https://github.com/Moopy-Moo/ExData_Plotting1/blob/master/plot3.png?raw=true)
 
 
 ### Plot 4
 
-plot4.png
+![Image 4](https://github.com/Moopy-Moo/ExData_Plotting1/blob/master/plot4.png?raw=true)
 
